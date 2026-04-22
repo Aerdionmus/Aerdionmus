@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Shaktivell
+# 👋 Hi, I'm Shaktivell
 
-You can also call me **Airboeingbus**. I’m a **Pentumulate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
-I enjoy working where hardware meets software — whether it’s simulating avionics systems or diving into console hardware through homebrewing and game development.  
-Currently, I’m sharpening my problem-solving skills through real-world systems and software challenges.
+You can also call me **Airboeingbus**. I'm a **Penultimate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
+I enjoy working where hardware meets software — whether it's simulating avionics systems or diving into console hardware through homebrewing and game development.  
+Currently, I'm sharpening my problem-solving skills through real-world systems and software challenges.
 
 ---
 
@@ -40,13 +40,28 @@ I also immerse myself in *retro tech* and *retro gaming* — vintage machines an
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### ⚙️ Hardware & Simulation Tools  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-2E8B57?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| 🗑️ Autonomous Waste Sorting Bin | ESP32 + Pi Camera based smart sorting system | [GitHub](#) |
+| 🛬 SmartZone-R Runway Monitor | IoT sensor network for real-time runway telemetry | [GitHub](#) |
+| 🫀 ECG Monitoring System | Arduino ECG with UART streaming to ThingSpeak | [GitHub](#) |
+| 🏥 Sepsis Survival Prediction | ML model on 120k+ records with threshold tuning | [GitHub](#) |
+| 🏢 DormWise HVAC Optimization | MST-based thermal network, identified ₹63.6M/yr waste | [GitHub](#) |
+| ✈️ VectaAir Flight Recommender | K-means + SVD recommender, 90.3% reliability | [GitHub](#) |
 
 ---
 
@@ -68,16 +83,15 @@ I also immerse myself in *retro tech* and *retro gaming* — vintage machines an
 
 ## 🌐 Portfolio
 
-Visit my Personal Portfolio whicn encompasses me as an induvidual technically and creatively
+Visit my personal portfolio which encompasses me as an individual — technically and creatively.  
 🔗 [Portfolio Website](https://airboeingbus.github.io/retro-portfolio/)
 
----
 ---
 
 ## 📈 GitHub Stats & Coding Activity
 
 <p align="center">
-  
+
   <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=airboeingbus&label=Profile+Views&color=green" alt="Profile Views" />
 
@@ -97,10 +111,14 @@ Visit my Personal Portfolio whicn encompasses me as an induvidual technically an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airboeingbus&layout=compact&theme=radical" alt="Top Languages" />
 
   <br><br>
-  <figure><embed src="https://wakatime.com/share/@Airboeingbus/f790c7d0-7ae3-40cb-a18b-0636124b0bcc.svg"></embed></figure>
 
-  <!-- Wakatime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" />
+  <!-- WakaTime Coding Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" alt="WakaTime Stats" />
+
+  <br><br>
+
+  <!-- WakaTime OS Stats -->
+  <img src="https://wakatime.com/share/@Airboeingbus/os.svg" alt="WakaTime OS Stats" />
 
 </p>
 
