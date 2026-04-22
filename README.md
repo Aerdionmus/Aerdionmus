@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shaktivell
 
 You can also call me **Airboeingbus**. I'm a **Penultimate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
-I enjoy working where hardware meets software — whether it's simulating avionics systems or diving into console hardware through homebrewing and game development.  
+I enjoy working where hardware meets software — whether it's simulating avionics systems or working on projects which finds it's purpose in helping real world.
 Currently, I'm sharpening my problem-solving skills through real-world systems and software challenges.
 
 ---
@@ -9,11 +9,11 @@ Currently, I'm sharpening my problem-solving skills through real-world systems a
 ## 🎯 Personal Interests
 
 I spend time where art and tech cross paths —  
-**music**, **cinema**, **gaming**, **literature**, and the occasional **comic panel**.  
+**music**, **cinema**, **gaming**, **literature(Ebooks hehe)**, and the occasional **comic panel**.  
 **Commercial aviation** fascinates me; I track flights, follow systems, observe.  
 And when words press in, I write — not to decorate,  
 but to distill meaning from motion.  
-I also immerse myself in *retro tech* and *retro gaming* — vintage machines and old-school bytes spark joy.
+I also immerse myself in *retro tech* and *retro gaming* — vintage machines and old-school bytes make me so happy even though I don't come from that generation 
 
 ---
 
