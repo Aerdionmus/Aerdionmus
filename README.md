@@ -56,12 +56,12 @@ I also immerse myself in *retro tech* and *retro gaming* — vintage machines an
 
 | Project | Description | Link |
 |---|---|---|
-| 🗑️ Autonomous Waste Sorting Bin | ESP32 + Pi Camera based smart sorting system | [GitHub](#) |
-| 🛬 SmartZone-R Runway Monitor | IoT sensor network for real-time runway telemetry | [GitHub](#) |
-| 🫀 ECG Monitoring System | Arduino ECG with UART streaming to ThingSpeak | [GitHub](#) |
-| 🏥 Sepsis Survival Prediction | ML model on 120k+ records with threshold tuning | [GitHub](#) |
-| 🏢 DormWise HVAC Optimization | MST-based thermal network, identified ₹63.6M/yr waste | [GitHub](#) |
-| ✈️ VectaAir Flight Recommender | K-means + SVD recommender, 90.3% reliability | [GitHub](#) |
+| 🗑️ Autonomous Waste Sorting Bin | ESP32 + Pi Camera based smart sorting system | [GitHub](https://github.com/Airboeingbus/Autonomous-Waste-Sorting-Bin) |
+| 🛬 SmartZone-R Runway Monitor | IoT sensor network for real-time runway telemetry | [GitHub](https://github.com/Airboeingbus/SmartZone-R) |
+| 🫀 ECG Monitoring System | Arduino ECG with UART streaming to ThingSpeak | [GitHub](https://github.com/Airboeingbus/IoT-Based-ECG-Monitoring-System.) |
+| 🏥 Sepsis Survival Prediction | ML model on 120k+ records with threshold tuning | [GitHub](https://github.com/Airboeingbus/sepsis-survival-prediction) |
+| 🏢 DormWise HVAC Optimization | MST-based thermal network, identified ₹63.6M/yr waste | [GitHub](https://github.com/Airboeingbus/DormWise-Intelligent-HVAC-Optimization-Using-MST-Data-Analytics) |
+| ✈️ VectaAir Flight Recommender | K-means + SVD recommender, 90.3% reliability | [GitHub](https://github.com/Airboeingbus/VectaAir_-A-Personalized-Flight-Recommender-System-) |
 
 ---
 
@@ -118,7 +118,7 @@ Visit my personal portfolio which encompasses me as an individual — technicall
   <br><br>
 
   <!-- WakaTime OS Stats -->
-  <img src="https://wakatime.com/share/@Airboeingbus/os.svg" alt="WakaTime OS Stats" />
+  <figure><embed src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg"></embed></figure>
 
 </p>
 
