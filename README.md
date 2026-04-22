@@ -97,6 +97,7 @@ Visit my Personal Portfolio whicn encompasses me as an induvidual technically an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airboeingbus&layout=compact&theme=radical" alt="Top Languages" />
 
   <br><br>
+  <figure><embed src="https://wakatime.com/share/@Airboeingbus/f790c7d0-7ae3-40cb-a18b-0636124b0bcc.svg"></embed></figure>
 
   <!-- Wakatime Stats -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" />
