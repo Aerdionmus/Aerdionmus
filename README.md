@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaktivell
 
-You can also call me **Airboeingbus**. I'm a **Penultimate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
+You can also call me **Aerdionmus**. I'm a **Penultimate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
 I enjoy working where hardware meets software — whether it's simulating avionics systems or working on projects which finds it's purpose in helping real world.
 Currently, I'm sharpening my problem-solving skills through real-world systems and software challenges.
 
