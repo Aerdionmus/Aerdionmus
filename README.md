@@ -93,27 +93,27 @@ Visit my personal portfolio which encompasses me as an individual — technicall
 <p align="center">
 
   <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=airboeingbus&label=Profile+Views&color=green" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aerdionmus&label=Profile+Views&color=green" alt="Profile Views" />
 
   <br><br>
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=airboeingbus&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aerdionmus&show_icons=true&theme=radical" alt="GitHub Stats" />
 
   <br><br>
 
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=airboeingbus&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com/?user=Aerdionmus&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 
   <br><br>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airboeingbus&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerdionmus&layout=compact&theme=radical" alt="Top Languages" />
 
   <br><br>
 
   <!-- WakaTime Coding Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aerdionmus&theme=radical" alt="WakaTime Stats" />
 
   <br><br>
 
