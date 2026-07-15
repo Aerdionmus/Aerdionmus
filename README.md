@@ -65,9 +65,9 @@ Penultimate-year Computer Science student at Amrita Vishwa Vidyapeetham, working
 
 **WakaTime Coding Activity**
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/1f311011-01c3-4390-9110-f3753469daad.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fd2a60cb-dd19-45b3-8364-1e072fefede8.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/1f311011-01c3-4390-9110-f3753469daad.png" width="450" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fd2a60cb-dd19-45b3-8364-1e072fefede8.png" width="450" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg" width="450" /></a>
 
 ---
 
