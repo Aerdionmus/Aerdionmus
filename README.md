@@ -1,6 +1,6 @@
 # Hi, I'm Shaktivell 👋
 
-Final-year Computer Science student at Amrita Vishwa Vidyapeetham, working at the intersection of hardware and software — from avionics simulation to systems that solve real-world problems.
+Penultimate-year Computer Science student at Amrita Vishwa Vidyapeetham, working at the intersection of hardware and software — from avionics simulation to systems that solve real-world problems.
 
 📍 Chennai · 🔗 [Portfolio](https://aerdionmus.github.io/retro-portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/s-p-shaktivell-sunder/)
 
@@ -62,6 +62,12 @@ Final-year Computer Science student at Amrita Vishwa Vidyapeetham, working at th
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aerdionmus&show_icons=true&theme=radical&hide_border=true)
 ![Streak](https://streak-stats.demolab.com/?user=Aerdionmus&theme=radical&hide_border=true)
+
+**WakaTime Coding Activity**
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/1f311011-01c3-4390-9110-f3753469daad.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fd2a60cb-dd19-45b3-8364-1e072fefede8.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg" /></a>
 
 ---
 
