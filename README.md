@@ -121,7 +121,7 @@ Visit my personal portfolio which encompasses me as an individual — technicall
   <figure><embed src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg"></embed></figure>
 
 </p>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aerdionmus)](https://github.com/stats-organization/github-stats-extended)
+[!(https://github-stats-extended.vercel.app/api?username=Aerdionmus)](https://github.com/stats-organization/github-stats-extended)]
 
 ---
 
