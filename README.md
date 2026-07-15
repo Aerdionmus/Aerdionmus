@@ -59,8 +59,7 @@ Penultimate-year Computer Science student at Amrita Vishwa Vidyapeetham, working
 ---
 
 ## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aerdionmus&show_icons=true&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Aerdionmus&theme=radical&hide_border=true)
 
 **WakaTime Coding Activity**
 
