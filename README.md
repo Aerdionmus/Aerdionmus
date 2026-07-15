@@ -113,7 +113,7 @@ Visit my personal portfolio which encompasses me as an individual — technicall
   <br><br>
 
   <!-- WakaTime Coding Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aerdionmus&theme=radical" alt="WakaTime Stats" />
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fe9e0c66-6cf9-45b0-b2b1-db33d58884fb.png" /></a>
 
   <br><br>
 
@@ -121,7 +121,6 @@ Visit my personal portfolio which encompasses me as an individual — technicall
   <figure><embed src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg"></embed></figure>
 
 </p>
-[!(https://github-stats-extended.vercel.app/api?username=Aerdionmus)](https://github.com/stats-organization/github-stats-extended)]
 
 ---
 
