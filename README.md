@@ -1,135 +1,77 @@
-# 👋 Hi, I'm Shaktivell
+# Hi, I'm Shaktivell 👋
 
-You can also call me **Aerdionmus**. I'm a **Penultimate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
-I enjoy working where hardware meets software — whether it's simulating avionics systems or working on projects which finds it's purpose in helping real world.
-Currently, I'm sharpening my problem-solving skills through real-world systems and software challenges.
+Final-year Computer Science student at Amrita Vishwa Vidyapeetham, working at the intersection of hardware and software — from avionics simulation to systems that solve real-world problems.
 
----
+📍 Chennai · 🔗 [Portfolio](https://aerdionmus.github.io/retro-portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/s-p-shaktivell-sunder/)
 
-## 🎯 Personal Interests
-
-I spend time where art and tech cross paths —  
-**music**, **cinema**, **gaming**, **literature(Ebooks hehe)**, and the occasional **comic panel**.  
-**Commercial aviation** fascinates me; I track flights, follow systems, observe.  
-And when words press in, I write — not to decorate,  
-but to distill meaning from motion.  
-I also immerse myself in *retro tech* and *retro gaming* — vintage machines and old-school bytes make me so happy even though I don't come from that generation 
+> Note: a few earlier repos are hosted under my previous username **@Airboeingbus** — same account, renamed. Links redirect automatically.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+**Libraries & Frameworks**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### 📚 Libraries & Frameworks (Python)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
----
-
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### ⚙️ Hardware & Simulation Tools  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Wokwi](https://img.shields.io/badge/Wokwi-2E8B57?style=for-the-badge&logo=github&logoColor=white)
+**Hardware & Simulation**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-2E8B57?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
+| Project | Stack | Highlight |
 |---|---|---|
-| 🗑️ Autonomous Waste Sorting Bin | ESP32 + Pi Camera based smart sorting system | [GitHub](https://github.com/Airboeingbus/Autonomous-Waste-Sorting-Bin) |
-| 🛬 SmartZone-R Runway Monitor | IoT sensor network for real-time runway telemetry | [GitHub](https://github.com/Airboeingbus/SmartZone-R) |
-| 🫀 ECG Monitoring System | Arduino ECG with UART streaming to ThingSpeak | [GitHub](https://github.com/Airboeingbus/IoT-Based-ECG-Monitoring-System.) |
-| 🏥 Sepsis Survival Prediction | ML model on 120k+ records with threshold tuning | [GitHub](https://github.com/Airboeingbus/sepsis-survival-prediction) |
-| 🏢 DormWise HVAC Optimization | MST-based thermal network, identified ₹63.6M/yr waste | [GitHub](https://github.com/Airboeingbus/DormWise-Intelligent-HVAC-Optimization-Using-MST-Data-Analytics) |
-| ✈️ VectaAir Flight Recommender | K-means + SVD recommender, 90.3% reliability | [GitHub](https://github.com/Airboeingbus/VectaAir_-A-Personalized-Flight-Recommender-System-) |
+| 🏢 [DormWise HVAC Optimization](https://github.com/Aerdionmus/DormWise-Intelligent-HVAC-Optimization-Using-MST-Data-Analytics) | Python · Data Analytics | MST-based thermal network model; identified ₹63.6M/yr in avoidable energy waste |
+| ✈️ [VectaAir Flight Recommender](https://github.com/Aerdionmus/VectaAir_-A-Personalized-Flight-Recommender-System-) | Python · Scikit-learn | K-means clustering + SVD-based recommender, 90.3% reliability |
+| 🏥 [Sepsis Survival Prediction](https://github.com/Aerdionmus/sepsis-survival-prediction) | Python · Scikit-learn · Pandas | ML classification model trained on 120k+ patient records with tuned decision thresholds |
+| 🛬 [SmartZone-R Runway Monitor](https://github.com/Aerdionmus/SmartZone-R) | Python · IoT | Real-time sensor network + dashboard for runway surface telemetry at small airports |
+| 🫀 [ECG Monitoring System](https://github.com/Aerdionmus/IoT-Based-ECG-Monitoring-System.) | Arduino · C++ | ECG signal acquisition with UART streaming to ThingSpeak |
+| 🗑️ [Autonomous Waste Sorting Bin](https://github.com/Aerdionmus/Autonomous-Waste-Sorting-Bin) | ESP32 · Computer Vision | Camera-based automated waste classification and sorting |
 
 ---
 
 ## 🧮 Competitive Programming
 
-<a href="https://leetcode.com/u/spshaktivellsunder/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/spshaktivellsun" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/shakti_004" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/spshaktivellsunder/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/spshaktivellsun)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/shakti_004)
 
 ---
 
-## 🌐 Portfolio
+## 📈 GitHub Activity
 
-Visit my personal portfolio which encompasses me as an individual — technically and creatively.  
-🔗 [Portfolio Website](https://aerdionmus.github.io/retro-portfolio/)
-
----
-
-## 📈 GitHub Stats & Coding Activity
-
-<p align="center">
-
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Aerdionmus&label=Profile+Views&color=green" alt="Profile Views" />
-
-  <br><br>
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aerdionmus&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <br><br>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Aerdionmus&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-
-  <br><br>
-
-  <!-- Top Languages Card -->
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/1f311011-01c3-4390-9110-f3753469daad.png" /></a>
-
-  <br><br>
-
-  <!-- WakaTime Coding Stats -->
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fd2a60cb-dd19-45b3-8364-1e072fefede8.png" /></a>
-
-  <br><br>
-
-  <!-- WakaTime OS Stats -->
-  <figure><embed src="https://wakatime.com/share/@Airboeingbus/3fb613e5-20a6-44ca-9e3e-e0c09972b175.svg"></embed></figure>
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aerdionmus&show_icons=true&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Aerdionmus&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Contact  
+## 🎯 Beyond Code
 
-<a href="https://www.linkedin.com/in/s-p-shaktivell-sunder/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:spshaktivellsunder@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
-</a>
+Commercial aviation, retro tech, music, cinema, and reading fill the rest of my time — interests that keep curiosity sharp outside the IDE.
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-p-shaktivell-sunder/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:spshaktivellsunder@gmail.com)
