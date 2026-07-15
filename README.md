@@ -108,12 +108,12 @@ Visit my personal portfolio which encompasses me as an individual — technicall
   <br><br>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerdionmus&layout=compact&theme=radical" alt="Top Languages" />
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/1f311011-01c3-4390-9110-f3753469daad.png" /></a>
 
   <br><br>
 
   <!-- WakaTime Coding Stats -->
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fe9e0c66-6cf9-45b0-b2b1-db33d58884fb.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Aerdionmus/fd2a60cb-dd19-45b3-8364-1e072fefede8.png" /></a>
 
   <br><br>
 
